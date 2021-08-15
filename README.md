@@ -5,14 +5,14 @@
 
 🔭 I’m currently working as Technical Lead at [Eghamat24.com](https://www.eghamat24.com)
 
-I am a hard worker, able to grasp new concepts quickly and self-motivated guy.
+I am a hard worker, fast learner and self-motivated guy.
 I have a good understanding of English and I usually have some new ideas to work with.
 
 ## Soft Skills
-* Teamwork, Leadership
-* Teaching
+* Teamwork and Leadership
+* Communication and Teaching
+* Problem-Solving
 * Love to Learn
-* Self-confidence
 
 ## Technical Skills
 * ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php) ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)
@@ -30,10 +30,11 @@ I have a good understanding of English and I usually have some new ideas to work
 * Movies
 * Football
 
-![Mahdi's github stats](https://github-readme-stats.vercel.app/api?username=mbpcoder&show_icons=true&hide_border=true)
-<br />
-![Mahsi's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mbpcoder&layout=compact&langs_count=8&hide_border=true)
-<br />
+<div align='center'>
+  
+![Mahdi's github stats](https://github-readme-stats.vercel.app/api?username=mbpcoder&show_icons=true&hide_border=true)  ![Mahsi's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mbpcoder&layout=compact&langs_count=8&hide_border=true)
+  
+</div>
 
 
 <!--
