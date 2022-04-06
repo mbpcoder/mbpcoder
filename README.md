@@ -5,11 +5,14 @@
 
 🔭 I’m currently working as Technical Lead at [Eghamat24.com](https://www.eghamat24.com)
 
-I am a hard worker, fast learner and self-motivated guy.
-I have a good understanding of English and I usually have some new ideas to work with.
+I am a hard worker, a fast learner, and a self-motivated guy.  
+I have a good understanding of English and I usually have some new ideas to work with.  
+I have a growth mindset so growth is very important to me, growth in every aspect of life, knowledge, skills, team, income even my AGE!  
+I am created and led small-size technical teams for more than 6 years my main approach is to create a workspace for developers to grow and learn.  
+My main focus in web development is scalable web architecture.
 
-## Soft Skills
-* Teamwork and Leadership
+## Human Skills
+* Teamwork, Leadership
 * Communication and Teaching
 * Problem-Solving
 * Love to Learn
