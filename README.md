@@ -5,11 +5,7 @@
 
 🔭 I’m currently working as Technical Lead at [Eghamat24.com](https://www.eghamat24.com)
 
-I am a hard worker, a fast learner, and a self-motivated guy.  
-I have a good understanding of English and I usually have some new ideas to work with.  
-I have a growth mindset so growth is very important to me, growth in every aspect of life, knowledge, skills, team, income even my AGE!  
-I am created and led small-size technical teams for more than 6 years my main approach is to create a workspace for developers to grow and learn.  
-My main focus in web development is scalable web architecture.
+With over 14 years of web development experience and leadership skills, I excel at creating scalable web architectures and cultivating a growth mindset among my team members. I am a quick learner, a self-starter, and a creative problem-solver with a strong command of English. I have enhanced web applications to meet company needs and growth, and I am always ready for new challenges and opportunities.
 
 ## Human Skills
 * Teamwork, Leadership
